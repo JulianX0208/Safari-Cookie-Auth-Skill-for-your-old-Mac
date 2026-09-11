@@ -1,4 +1,4 @@
-# safari-cookie-auth
+# Safari-Cookie-Auth Skill
 
 在不使用 Chromium、Chrome DevTools、Playwright 或 Selenium 浏览器封装的前提下，把当前 macOS 用户 Safari 的登录 cookie 复制到一个 `safaridriver` 会话中。
 
