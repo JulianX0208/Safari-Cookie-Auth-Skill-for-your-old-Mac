@@ -4,6 +4,8 @@
 
 这是“读取 Safari cookie + 新建 Safari WebDriver 会话 + 注入 cookie”，不是让 `safaridriver` 直接接管用户正在使用的 Safari 窗口。
 
+<img width="1672" height="941" alt="原理" src="https://github.com/user-attachments/assets/5af44198-ff4a-47ab-8fb1-9e2b505d8fc4" />
+
 ## 适用目标
 
 - macOS 上只有 Safari/safaridriver 可用的旧机器
